@@ -10,15 +10,3 @@ This program creates a simple blockchain data structure with strings provided by
 * Displays the blockchain data (*i.e.* block explorer)
 
 I have deliberately kept the algorithm simple and left out key management (*i.e.* transactions can only contain strings), P2P, the longest chain rule, a proper validation mechanism (broadcasting and receiving validations), and block rewards. The purpose is to focus on the structure in which blocks connect to each other in a blockchain.
-
-## Built with
-C#
-
-## Contributing
-Open to contributions.
-
-## Author
-Yusuf Mansur Özer
-
-## License
-Licensed under GNU Affero General Public License v3.0. See the [LICENSE.md](https://github.com/ymansurozer/simpleblockchain/blob/master/LICENSE) file for details.
